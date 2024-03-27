@@ -41,5 +41,4 @@ def calculate_grade(score):
     else:
         return "F"
 
-# 사용 예시
 generate_grade_report(5, 3, ["영어", "C-언어", "파이썬"])
